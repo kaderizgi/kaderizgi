@@ -1,4 +1,4 @@
--  Hi 👋, I’m Kader İzgi
+  -  Hi 👋, I’m Kader İzgi
 
 
 
